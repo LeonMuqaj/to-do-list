@@ -37,7 +37,7 @@ const useTodoStore = create<StoreType>()(
           updatedAt: new Date(),
         };
         set((state) => ({
-          todos: [newTodo, ...state.todos],
+          todos: [...state.todos, newTodo],
         }));
       },
 
