@@ -99,7 +99,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\muqaj\\Desktop",
+    "outputFileTracingRoot": "C:\\Users\\muqaj\\Documents\\GitHub\\to-do-list",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -290,12 +290,12 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\muqaj\\Desktop"
+      "root": "C:\\Users\\muqaj\\Documents\\GitHub\\to-do-list"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Users\\muqaj\\Desktop\\to-do-list",
-  "relativeAppDir": "to-do-list",
+  "appDir": "C:\\Users\\muqaj\\Documents\\GitHub\\to-do-list",
+  "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
     ".next\\server\\pages-manifest.json",
